@@ -8,6 +8,6 @@
 
 ## 𝗦𝗞𝗜𝗟𝗟𝗦
 
-▪ <b>Programming Languages</b>: JavaScript, TypeScript, Node.js, PHP, Python, SQL, CSS, SCSS, SASS
+▪ <b>Programming Languages</b>: JavaScript, TypeScript, Node.js, Python, SQL, CSS
 
 <br/>
